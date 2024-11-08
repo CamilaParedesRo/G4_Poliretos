@@ -1,6 +1,6 @@
 package Poliretos_G4.Loading;
 
-public class Loading_01 {
+public class Loading_1 {
     public void G4_Loading_1() {
         System.out.println("Loading 1");
         String[] rotacion = {"|", "/", "-", "\\"};

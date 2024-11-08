@@ -2,7 +2,7 @@ package Poliretos_G4.Arrays;
 
 import java.util.Scanner;
 
-public class Array_01 {
+public class Array_1 {
 public void G4_Areglo_1(Scanner scanner) {
 
         System.out.println("Arreglo 1");
